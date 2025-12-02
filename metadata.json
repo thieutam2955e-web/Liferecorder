@@ -1,0 +1,5 @@
+{
+  "name": " Life Recorder",
+  "description": "A visual life grid to track your weeks, mood, and life progress based on the 'Memento Mori' concept.",
+  "requestFramePermissions": []
+}
